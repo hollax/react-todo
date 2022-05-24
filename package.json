@@ -4,5 +4,7 @@
     "authors": "Wakeel Ogunsanya",
     "version": "1.0.0",
     "main": "main.js",
-    "dependencies": {}
+    "scripts": {
+        "start": "cd backend && npm i && npm start"
+    }
 }
